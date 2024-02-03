@@ -77,9 +77,9 @@ I embrace modern development tools like Git for version control, Jira for projec
 My workflow is centered around efficiency and collaboration, ensuring smooth development processes.
 
 ## 📈 Continuous Learning
--🌱As a lifelong learner, I stay ahead of industry trends and explore emerging technologies.
--🚀I believe in continuous improvement, both personally and professionally, to provide the best solutions for any project.
--👨‍💻Open to collaboration and learning opportunities. Let's connect and build cool stuff together!
+- 🌱As a lifelong learner, I stay ahead of industry trends and explore emerging technologies.
+- 🚀I believe in continuous improvement, both personally and professionally, to provide the best solutions for any project.
+- 👨‍💻Open to collaboration and learning opportunities. Let's connect and build cool stuff together!
 
 
 ## 🌐 Online Presence
