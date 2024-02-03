@@ -63,6 +63,7 @@ I specialize in Java development and have a strong foundation in a variety of te
 
 ### Github status
 ![Vanilson Muhongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonwade&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonwade&layout=compact)
 
 
 
