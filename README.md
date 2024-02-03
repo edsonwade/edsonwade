@@ -61,6 +61,7 @@ I specialize in Java development and have a strong foundation in a variety of te
   <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 </div>
 
+
 I work with a range of technologies daily, ensuring that my skills stay sharp and up-to-date.
 Some of my favorite tools include Visual Studio Code, Docker for containerization, and Kubernetes for orchestration.
 
