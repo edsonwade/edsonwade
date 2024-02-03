@@ -62,10 +62,11 @@ I specialize in Java development and have a strong foundation in a variety of te
 </div><br/>
 
 ### Github status
-<div style="display: flex;">
+<div style="display: flex; margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=edsonwade&show_icons=true&theme=dracula" alt="Vanilson Muhongo's GitHub stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonwade&layout=compact&theme=dracula" alt="Top Langs" height="180" />
 </div>
+
 
 I work with a range of technologies daily, ensuring that my skills stay sharp and up-to-date.
 Some of my favorite tools include Visual Studio Code, Docker for containerization, and Kubernetes for orchestration.
