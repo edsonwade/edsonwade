@@ -64,7 +64,7 @@ I specialize in Java development and have a strong foundation in a variety of te
 ### Github status
 <div style="display: flex; margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=edsonwade&show_icons=true&theme=tokyonight" alt="Vanilson Muhongo's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonwade&layout=compact&theme=solarized-dark" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonwade&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
 </div>
 
 
