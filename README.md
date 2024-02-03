@@ -61,6 +61,8 @@ I specialize in Java development and have a strong foundation in a variety of te
   <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 </div><br/>
 
+### Github status
+![Vanilson Muhongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonwade&show_icons=true&theme=dracula)
 
 
 
