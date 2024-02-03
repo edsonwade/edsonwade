@@ -54,12 +54,12 @@ I specialize in Java development and have a strong foundation in a variety of te
 </div>
 
 ### Communication and Collaboration Tools 📡
-<div style="display:inline_block"><br/>
+<div style="display:inline_block">
   <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img align="center" alt="microsoft-teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-</div>
+</div><br/>
 
 
 
