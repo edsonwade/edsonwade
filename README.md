@@ -6,9 +6,9 @@ Hello! 👋🏾 I'm Vanilson Muhongo, a passionate and experienced software deve
 
 I specialize in Java development and have a strong foundation in a variety of technologies, including:
 
-- Backend: Java, Node.js, Python, PHP
+- Backend: Java, Python
 - Databases: PostgreSQL, MySQL, MongoDB, Oracle, Mariadb
-- Frameworks: Spring Framework, Flask, Express.js
+- Frameworks: Spring Framework
 - DevOps: Docker, Kubernetes, Git, Svn, Gitlab
 - Systems Operations: Windows, Linux
 
